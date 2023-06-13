@@ -1,0 +1,5 @@
+bricks:
+  new_clean_arch_layer:
+    path:  ./new_clean_arch_layer/
+  clean_arch_folder_structure:
+    path:  ./clean_arch_folder_structure/

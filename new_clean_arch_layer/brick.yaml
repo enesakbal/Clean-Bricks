@@ -1,0 +1,11 @@
+name: new_clean_arch_layer
+description: A new brick created with the Mason CLI.
+version: 0.1.0+1
+environment:
+  mason: ">=0.1.0-dev.47 <0.1.0"
+vars:
+  name:
+    type: string
+    description: Layer Name
+    default: User
+    prompt: Layer Name?
