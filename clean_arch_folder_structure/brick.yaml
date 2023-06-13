@@ -1,4 +1,4 @@
-name: clean
+name: clean_arch_folder_structure
 description: A new brick created with the Mason CLI.
 version: 0.1.0+1
 environment:
@@ -6,6 +6,6 @@ environment:
 vars:
   name:
     type: string
-    description: Your name
-    default: Dash
-    prompt: What is your name?
+    description: What is your App name
+    default: NewProject
+    prompt: What is your App name
