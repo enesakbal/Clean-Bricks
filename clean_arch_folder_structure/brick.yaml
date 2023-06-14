@@ -3,9 +3,3 @@ description: A new brick created with the Mason CLI.
 version: 0.1.0+1
 environment:
   mason: ">=0.1.0-dev.47 <0.1.0"
-vars:
-  name:
-    type: string
-    description: What is your App name
-    default: NewProject
-    prompt: What is your App name
